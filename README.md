@@ -17,7 +17,6 @@
         <li>🎓 B.Tech (Information Technology) @ JSPM's RSCOE, Pune</li>
         <li>💡 Focus: <b>Software Development | AI/ML | Web Technologies</b></li>
         <li>👨‍💻 Languages: C++, Java, Python, JavaScript</li>
-        <li>🧩 Solved <b>300+ DSA</b> Problems on LeetCode & GFG</li>
         <li>🚀 Exploring: <b>DevOps, Cloud, Full-Stack Systems</b></li>
       </ul>
     </td>
@@ -35,6 +34,8 @@
 | 🏥 *AI-Driven Healthcare Recommendation System* | ML-powered system suggesting personalized health tips based on patient data | Python, Flask, Scikit-learn |
 | 🎮 *Gesture-Based Game Controller* | Real-time hand gesture recognition for game control | Python, OpenCV, MediaPipe |
 | 💸 *Smart Expense Splitter* | Debt minimization using graph theory | Java, Collections |
+| 👨‍💻 *Chat App* | Chat Appllication Using Sockets in Java | Java, Collections |
+
 
 ---
 

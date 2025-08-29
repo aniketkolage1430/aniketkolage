@@ -48,14 +48,14 @@
 ---
 
 ## 📊TECHNICAL SKILLS
-• Programming Languages: C/C++, Java, Python
-• Web Development: Frontend and Backend Technologies
-• Data Structures & Algorithms: Problem-solving and Optimization
-• Machine Learning: AI Model Development and Implementation
-• DevOps: Intermediate Level - Deployment and Integration
-• Database Management: MongoDB, Oracle
-• Software Development: Full Stack Development Capabilities
-• Version Control: Git and Collaborative Development 
+ - Programming Languages: C/C++, Java, Python
+ - Web Development: Frontend and Backend Technologies
+ - Data Structures & Algorithms: Problem-solving and Optimization
+ - Machine Learning: AI Model Development and Implementation
+ - DevOps: Intermediate Level - Deployment and Integration
+ - Database Management: MongoDB, Oracle
+ - Software Development: Full Stack Development Capabilities
+ - Version Control: Git and Collaborative Development 
 
 ## 📚 Certifications  
 

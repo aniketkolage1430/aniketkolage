@@ -47,18 +47,15 @@
 
 ---
 
-## 📊 GitHub Stats  
-
-<p align="center" margin="10px">
-  <img src="https://github-readme-stats.vercel.app/api?username=aniketkolage&show_icons=true&theme=tokyonight" width="410"/>
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=aniketkolage&theme=tokyonight" width="410"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aniketkolage&layout=compact&theme=tokyonight" width="400"/>
-</p>
-
----
+## 📊TECHNICAL SKILLS
+• Programming Languages: C/C++, Java, Python
+• Web Development: Frontend and Backend Technologies
+• Data Structures & Algorithms: Problem-solving and Optimization
+• Machine Learning: AI Model Development and Implementation
+• DevOps: Intermediate Level - Deployment and Integration
+• Database Management: MongoDB, Oracle
+• Software Development: Full Stack Development Capabilities
+• Version Control: Git and Collaborative Development 
 
 ## 📚 Certifications  
 

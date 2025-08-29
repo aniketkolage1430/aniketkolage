@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00FFDD&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Final+Year+IT+Student+%7C+Software+Developer;300%2B+DSA+Problems+Solved+%7C+Full+Stack+Developer;AI+%7C+ML+%7C+Web+Development+Enthusiast;Always+Learning+%7C+Building+%7C+Contributing" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=00FFDD&center=true&vCenter=true&multiline=true&width=900&height=100&lines=Final+Year+IT+Student+%7C+Software+Developer;Full+Stack+Developer;AI+%7C+ML+%7C+Web+Development+Enthusiast;Always+Learning+%7C+Building+%7C+Contributing" alt="Typing SVG" />
 </p>
 
 ---
@@ -28,17 +28,6 @@
 </table>
 
 ---
-
-## 🏆 Achievements  
-
-- 📜 Registered **Intellectual Property** with Government of India:  
-  *“Modern Portfolio With Sleek and Smart Design”*  
-- 📖 Published **Research Paper** in IEEE Xplore:  
-  *“Fake Profile Identification and Reporting for Social Media Platform”* (I2ITCON 2025, Pune)  
-- 🧩 Solved **300+ DSA problems** across platforms (LeetCode, TakeUForward, GFG)
-
----
-
 ## 💼 Projects  
 
 | Project | Description | Tech Stack |

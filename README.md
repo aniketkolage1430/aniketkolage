@@ -74,15 +74,14 @@
 
 - MongoDB Certification – NoSQL Database Management *(2024)*  
 - Oracle Certification – RDBMS *(2023)*  
-- Udemy – Advanced C++ Programming *(2022)*  
+- Udemy – Advanced C++ Programming *(2022)*
+- Six Sigma Certification
 
----
+## 🌍 Additional Information  
 
-## 🎤 Conferences  
-
-- 📖 Presented and published research paper at **I2ITCON 2025, Pune**  
-  *“Fake Profile Identification and Reporting for Social Media Platform”*  
-  *(Published in IEEE Xplore)*  
+- **Languages:** English, Marathi, Hindi  
+- **Hobbies:** Chess, Marathon Running, Cricket  
+- **Volunteer Work:** Saint Club Events, Cyberbort Expert Session  
 
 ---
 
